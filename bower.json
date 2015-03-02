@@ -1,0 +1,16 @@
+{
+  "name": "grailsReactTest",
+  "version": "1.0.0",
+  "authors": [
+    "Alan Verbner <alverbner@gmail.com>"
+  ],
+  "description": "Grails ReactJs test with bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
