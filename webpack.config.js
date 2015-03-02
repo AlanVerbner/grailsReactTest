@@ -20,7 +20,7 @@ module.exports = {
     devtool: false,
 
     context: __dirname + '/grails-app/assets/javascripts',
-    entry: './application',
+    entry: './index.jsx',
 
     stats: {
         colors: true,

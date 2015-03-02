@@ -122,5 +122,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="grailsReactTest-grailsPlugins" />
     <orderEntry type="library" name="grails-2.4.4" level="application" />
+    <orderEntry type="library" name="grailsReactTest node_modules" level="project" />
   </component>
 </module>
